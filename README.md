@@ -2,6 +2,8 @@
 
 *David Scanu*
 
+https://opossum-age-prediction.streamlit.app
+
 <picture>
   <img alt="Opossum" src="./img/opossum.jpeg">
 </picture>
